@@ -26,9 +26,10 @@ To view and interact with the dashboard, you need to have Power BI Desktop insta
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/PrasadKanakgiri/Customer-Healthcare-Dashboard.git
     ```
 2. **Open the Power BI file**:
+    Download Customer Healthcare Dashboard.pbix
     Open the `.pbix` file in Power BI Desktop.
 
 ## Usage
