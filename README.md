@@ -4,7 +4,7 @@
 
 This project involves the creation of a healthcare dashboard using Power BI and the Apollo Healthcare dataset. The dashboard provides valuable insights into hospital operations, patient information, and overall performance metrics.
 
-![Apollo Hospitals Leads Flow Dashboard](https://github.com/PrasadKanakgiri/Customer-Healthcare-Dashboard/blob/main/Customer%20Healtcare%20Dashboard%20Screenshot.png)
+![Diagnostic Healthcare : Leads Flow Dashboard](https://github.com/BuildwShub/Diagnostic-Healthcare---Dashboard/blob/main/HealthcareDiagnostic.pdf)
 
 ## Features
 
