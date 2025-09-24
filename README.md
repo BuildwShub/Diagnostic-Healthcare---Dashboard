@@ -26,7 +26,7 @@ To view and interact with the dashboard, you need to have Power BI Desktop insta
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/PrasadKanakgiri/Customer-Healthcare-Dashboard.git
+    git clone https://github.com/BuildwShub/Diagnostic-Healthcare---Dashboard.git
     ```
 2. **Open the Power BI file**:
     Download Diagnostic Healthcare Dashboard.pbix
@@ -53,10 +53,6 @@ A horizontal bar chart representing patient counts based on various diagnoses.
 ### Health Insurance and Billing
 A line chart illustrating the sum of billing amounts and health insurance amounts over different diagnoses.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Diagnostic Healthcare for providing the dataset.
@@ -64,5 +60,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any queries or feedback, feel free to reach out:
+
+- **Name**: Shubham Kanauji
+- **Email**: Shubbhamji77@gmail.com
+- **Linkedin**: [Shub's Linkedin](https://www.linkedin.com/in/foxsalsa/)
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/foxsalsa/)  
+
+---
 
