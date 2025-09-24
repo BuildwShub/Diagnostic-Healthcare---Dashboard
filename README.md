@@ -1,4 +1,4 @@
-# Customer-Healthcare-Dashboard
+# Diagnostic Healthcare Dashboard
 
 ## Overview
 
@@ -29,13 +29,13 @@ To view and interact with the dashboard, you need to have Power BI Desktop insta
     git clone https://github.com/PrasadKanakgiri/Customer-Healthcare-Dashboard.git
     ```
 2. **Open the Power BI file**:
-    Download Customer Healthcare Dashboard.pbix
+    Download Diagnostic Healthcare Dashboard.pbix
     Open the `.pbix` file in Power BI Desktop.
 
 ## Usage
 
 1. Open Power BI Desktop.
-2. Load the Apollo Healthcare dataset or connect to the dataset if it's stored in a database.
+2. Load the Diagnostic Healthcare dataset or connect to the dataset if it's stored in a database.
 3. Navigate through the different visualizations and interact with the data to gain insights.
 4. Use filters to customize the view based on specific criteria such as date ranges, patient ID, etc.
 
@@ -59,7 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Apollo Healthcare for providing the dataset.
+- Diagnostic Healthcare for providing the dataset.
 - Microsoft Power BI for the visualization tools.
 
 ## Contact
